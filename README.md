@@ -11,7 +11,7 @@ LIVE: https://andrzejszlachta.github.io/picture-in-picture/
 
 ## Overview
 
-description
+Share your screen using Picture In Picture API.
 
 ### Built With
 
@@ -19,12 +19,13 @@ HTML, CSS, JavaScript
 
 ## Features
 
-1. feature 1
+1. On page load select window you want to share.
+2. Press button to show floating window with selected view.
 
 ## Contact
-andrzejszlachta@mail.com  
+andrzej.szlachta@mail.com  
 https://andrzejszlachta.github.io/  
 
 ## Acknowledgements
 
-acknowledgments here
+JavaScript Web Projects: 20 Projects to Build Your Portfolio
